@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/gflags/gflags/archive/v${{ version }}.tar.gz
-  sha256: 77e0a76e0ea1131b9dcc63449ed4e3f6b81962f5
+  sha256: f619a51371f41c0ad6837b2a98af9d4643b3371015d873887f7e8d3237320b2f
 
 build:
   number: 0
